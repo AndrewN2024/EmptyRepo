@@ -1,6 +1,6 @@
 # MIST4610-Project1
-# Team Name:
+## Team Name:
 Name
-# Team Members:
+## Team Members:
 1. Andrew Neely
 
